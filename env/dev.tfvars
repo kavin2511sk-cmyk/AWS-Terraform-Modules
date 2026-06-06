@@ -8,6 +8,6 @@ tags = {
   Project     = "Terraform AWS Modules"
   ManagedBy   = "Terraform"
   CreatedDate = "2026-05-20"
-  Owner       = "Kavin"
+  # Owner       = "Kavin"  # Commented for security
   Environment = "Development"
 }
